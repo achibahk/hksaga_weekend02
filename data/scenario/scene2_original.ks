@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_scene2_original.ks]
+[_tb_system_call storage=system/scene2_original.ks]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="bg_base.png"  ]
